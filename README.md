@@ -24,7 +24,8 @@ Corpus and models for Burmese (Myanmar language) Sentence Segmentation
 Sentence segmentation can be defined as the task of dividing text into sentences. These sentences are independent units consisting of grammatically linked words. In formal Burmese (Myanmar language), sentences are grammatically structured and typically end with the "။" pote-ma symbol. However, informal language, which is more commonly used in daily conversations due to its natural flow, does not always follow predefined rules for ending sentences, making it challenging for machines to identify sentence boundaries. Applications rooted in conversation, such as Automatic Speech Recognition (ASR), Speech Synthesis or Text-to-Speech (TTS), and chatbots, need to determine the end of sentences to optimize their performance. In this corpus, we have tagged each token of the sentences and paragraphs from start to finish.
 
 ## License Information
-Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License. [Detail Information](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License.  
+[Detail Information](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 ## Version Information
 Version 1.0 Release Date:
