@@ -165,7 +165,7 @@ If you wish to use the mySentence models or sentence segmentation data in your r
 
 <!-- - Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for Myanmar language using Neural Machine Translation Approach" -->  
 
-- Ye Kyaw Thu, Thura Aung, Thepchai Supnithi, "Neural Sequence Labeling based Sentence Segmentation for Myanmar Language", the 12th Conference on Information Technology and its applications (CITA 2023), Lecture Notes in Networks and Systems, vol 734. Springer, Cham. [https://doi.org/10.1007/978-3-031-36886-8_24](https://doi.org/10.1007/978-3-031-36886-8_24), July 28-29, Danang, Vietnam, pp. 285--296
+- Ye Kyaw Thu, Thura Aung, Thepchai Supnithi, "Neural Sequence Labeling based Sentence Segmentation for Myanmar Language", the 12th Conference on Information Technology and its applications (CITA 2023), Lecture Notes in Networks and Systems, vol 734. Springer, Cham. [https://doi.org/10.1007/978-3-031-36886-8_24](https://doi.org/10.1007/978-3-031-36886-8_24), July 28-29, Danang, Vietnam, pp. 285-296
 
 ### Workshop Presentation
 
