@@ -1,7 +1,7 @@
 # mySentence
 Corpus and models for Burmese (Myanmar language) Sentence Segmentation
 
-[README file in Myanmar language](https://github.com/ye-kyaw-thu/mySentence/blob/main/README_my.md): 
+README file [in Myanmar language](https://github.com/ye-kyaw-thu/mySentence/blob/main/README_my.md): 
 
 - [Introduction](#Introduction)
 - [License Information](#License-Information)
