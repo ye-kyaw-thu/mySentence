@@ -28,7 +28,8 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 [[Detail Information]](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 ## Version Information
-**Version 1.0** Release Date: 30 July 2023  
+**Version 1.0**   
+Release Date: 30 July 2023  
 
 ## Corpus Development
 
