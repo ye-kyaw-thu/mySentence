@@ -25,7 +25,7 @@ Sentence segmentation can be defined as the task of dividing text into sentences
 
 ## License Information
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License.  
-[Detail Information](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[[Detail Information]](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 ## Version Information
 Version 1.0 Release Date:
