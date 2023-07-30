@@ -176,9 +176,9 @@ Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for 
 
 ## Experiment Log Files
 
-- [mySentence NCRF++ training with sentence-level data: https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging.md)  
-- [mySentence NCRF++ training with sentence+paragraph-level data: https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md)  
-- [mySentence NCRF++ cross-testing experiments: https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md)  
+- mySentence NCRF++ training with sentence-level data: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging.md)  
+- mySentence NCRF++ training with sentence+paragraph-level data: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md)  
+- mySentence NCRF++ cross-testing experiments: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md)  
 
 ## To Do
 
