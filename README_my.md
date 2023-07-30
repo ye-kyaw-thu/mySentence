@@ -157,7 +157,7 @@ B O O O O O O O O O O O O O O O O N N N E
 
 ## Publications
 ### Citations
-လူကြီးမင်းတို့ရဲ့ သု​တေသန အလုပ်​တွေမှာ mySentence ​မော်ဒယ်​တွေ ကို အသုံးပြုရင်ပဲ ဖြစ်​စေ၊ ​ဒေတာ များကို ပြန်လည် အသုံးပြုရင်ပဲ ဖြစ်​စေ ​အောက်ပါ စာတမ်းကို အကိုးအကား အ​နေနဲ့ ​​ဖော်ပြ​ပေး​စေလိုပါတယ်။
+ဆက်လက်ပြီး လုပ်ဆောင်ကြမယ့် သု​တေသန အလုပ်​တွေမှာ mySentence ​မော်ဒယ်​တွေ ကို အသုံးပြုရင်ပဲ ဖြစ်​စေ၊ ​ဒေတာများကို ပြန်လည် အသုံးပြုရင်ပဲဖြစ်​စေ ​အောက်ပါ စာတမ်းကို အကိုးအကား အ​နေနဲ့ ​​ဖော်ပြ​ပေး​စေလိုပါတယ်။
 
 <!-- - Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for Myanmar language using Neural Machine Translation Approach" -->  
 
