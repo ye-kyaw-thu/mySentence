@@ -38,8 +38,8 @@ Version 1.0 Release Date:
 |---|-: |-: |
 | [myPOS ver3.0](https://github.com/ye-kyaw-thu/myPOS) | 40,191 | 2,917 |
 | [Covid-19 Q&A](https://www3.nhk.or.jp/nhkworld/my/news/qa/coronavirus/) | 1,000 | 1,350 |
-| [Shared By Louis Augustine Page](www.facebook.com/sharedbylouisaugustine) | 547 | 1,885 |
-| [Maung Zi's Tales Page](www.facebook.com/MaungZiTales) | 2,516 | 581 |
+| [Shared By Louis Augustine Page](https://www.facebook.com/sharedbylouisaugustine) | 547 | 1,885 |
+| [Maung Zi's Tales Page](https://www.facebook.com/MaungZiTales) | 2,516 | 581 |
 | [Wikipedia](https://my.wikipedia.org/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC) | 2,780 | 1,060 |
 | Others | 93 | 672 |
 | **Total** | **47,127** | **8,465** |
