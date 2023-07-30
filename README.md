@@ -111,7 +111,7 @@ $ wc ./data/data-sent+para/sent+para_data_crf_format/*
  1048250  1985314 16242896 total
 ```
 
-### CRF format example  
+CRF format example  
 
 ```
 $ head -5 ./data/data-sent/sent_data_crf_format/train.col 
