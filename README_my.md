@@ -150,7 +150,7 @@ B O O O O O O O O O O O O O O O O N N N E
 
 ## Contributors
 - [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)  
-  (Language Understanding Laboratary: LU Lab., Myanmar.
+  (Language Understanding Laboratary: LU Lab., Myanmar.  
    National Electronics and Computer Technology Center: NECTEC, Pathumthani, Thailand)
 - [Thura Aung](https://sites.google.com/view/thura-aung/)  
   (Language Understanding Laboratary: LU Lab., Myanmar)
