@@ -174,4 +174,4 @@ Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for 
 
 ## To Do
 
-- အချိန်ရတဲ့အခါမှာ CITA-2023 conf. အတွက် ဆောက်ခဲ့တဲ့ NCRF++ model တွေကို တင်ပေးရန်
+- အချိန်ရတဲ့အခါမှာ CITA-2023 conf. စာတမ်းရေးဖို့ အတွက် ဆောက်ခဲ့တဲ့ NCRF++ mySentence model တွေကို တင်ပေးရန်
