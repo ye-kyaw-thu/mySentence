@@ -162,10 +162,15 @@ B O O O O O O O O O O O O O O O O N N N E
 
 - Ye Kyaw Thu, Thura Aung, Thepchai Supnithi, "Neural Sequence Labeling based Sentence Segmentation for Myanmar Language", the 12th Conference on Information Technology and its applications (CITA 2023), Lecture Notes in Networks and Systems, vol 734. Springer, Cham. [https://doi.org/10.1007/978-3-031-36886-8_24](https://doi.org/10.1007/978-3-031-36886-8_24), July 28-29, Danang, Vietnam, pp. 285-296
 
-
 ### Workshop Presentation
 
 Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for Myanmar language using Neural Machine Translation Methods", the 4th joint Workshop on NLP/AI R&D, November 5, 2022 at Chiang Mai, Thailand. [[workshop_link]](https://isai-nlp-aiot2022.aiat.or.th/workshop-on-nlp-ai-rd/)  
+
+## Experiment Log Files
+
+- mySentence NCRF++ training with sentence-level data: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging.md)  
+- mySentence NCRF++ training with sentence+paragraph-level data: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md)  
+- mySentence NCRF++ cross-testing experiments: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md)  
 
 ## To Do
 
