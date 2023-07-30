@@ -172,6 +172,11 @@ Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for 
 - mySentence NCRF++ training with sentence+paragraph-level data: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md)  
 - mySentence NCRF++ cross-testing experiments: [https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md](https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md)  
 
+## References
+
+1. [NCRF++ toolkit](https://github.com/jiesutd/NCRFpp/tree/master)  
+2. Nipun Sadvilkar and Mark Neumann. 2020. PySBD: Pragmatic Sentence Boundary Disambiguation. In Proceedings of Second Workshop for NLP Open Source Software (NLP-OSS), pages 110–114, Online. Association for Computational Linguistics.  
+ 
 ## To Do
 
 - အချိန်ရတဲ့အခါမှာ CITA-2023 conf. စာတမ်းရေးဖို့ အတွက် ဆောက်ခဲ့တဲ့ NCRF++ mySentence model တွေကို တင်ပေးရန်
