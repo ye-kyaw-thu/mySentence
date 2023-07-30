@@ -182,6 +182,6 @@ Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for 
 
 ## To Do
 
-- to upload mySentence NCRF++ models
+- to upload mySentence NCRF++ model that we built for CITA-2023 conf. paper
   
 
