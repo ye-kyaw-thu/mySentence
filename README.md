@@ -174,6 +174,12 @@ If you wish to use the mySentence models or sentence segmentation data in your r
 
 Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for Myanmar language using Neural Machine Translation Methods", the 4th joint Workshop on NLP/AI R&D, November 5, 2022 at Chiang Mai, Thailand. [[workshop_link]](https://isai-nlp-aiot2022.aiat.or.th/workshop-on-nlp-ai-rd/)  
 
+## Experiment Log Files
+
+- [mySentence training with sentence-level data:](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging.md)  
+- [mySentence training with sentence+paragraph-level data:](https://github.com/ye-kyaw-thu/error-overflow/blob/master/ncrfpp-mysent-tagging-para.md)  
+- [mySentence cross-testing experiments:](https://github.com/ye-kyaw-thu/error-overflow/blob/master/cross-testing-of-mysent-NCRFpp-models.md)  
+
 ## To Do
 
 - to upload mySentence NCRF++ models
