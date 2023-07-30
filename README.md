@@ -58,13 +58,16 @@ After word segmentation, we annotated the sequences of words in the corpus, tagg
 <br />
 If a sequence contains more than two 'E' tags, it is considered a paragraph.
 <br />
-The tagged example of a Burmese sentence, (I get bored.), is shown below: <br />
-Untagged sentence: ကျွန်တော် ပျင်း လာ ပြီ <br />
-Tagged sentence : ကျွန်တော်/B ပျင်း/N လာ/N ပြီ/E <br />
+The tagged example of a Burmese sentence, (I get bored.), is shown below:  
+
+Untagged sentence: ကျွန်တော် ပျင်း လာ ပြီ  
+Tagged sentence : ကျွန်တော်/B ပျင်း/N လာ/N ပြီ/E  
 <br />
+
 The tagged example of a Burmese paragraph, (I am sorry. I like drama films more.), is shown below:  
-Untagged paragraph: တောင်းပန် ပါ တယ် ကျွန်တော် က အချစ် ကား ပို ကြိုက် တယ် <br />
-Tagged paragraph: တောင်းပန်/B ပါ/N တယ်/E ကျွန်တော်/B က/O အချစ်/O ကား/N ပို/N ကြိုက်/N တယ်/E <br />
+
+Untagged paragraph: တောင်းပန် ပါ တယ် ကျွန်တော် က အချစ် ကား ပို ကြိုက် တယ်  
+Tagged paragraph: တောင်းပန်/B ပါ/N တယ်/E ကျွန်တော်/B က/O အချစ်/O ကား/N ပို/N ကြိုက်/N တယ်/E   
 
 ### Dataset Preparation
 
