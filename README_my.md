@@ -110,7 +110,9 @@ $ wc ./data/data-sent+para/sent+para_data_crf_format/*
    64861   123564  1004217 valid.col
  1048250  1985314 16242896 total
 ```
-CRF format example
+
+CRF format example  
+
 ```
 $ head -5 ./data/data-sent/sent_data_crf_format/train.col 
 ဘာ B
@@ -119,7 +121,9 @@ $ head -5 ./data/data-sent/sent_data_crf_format/train.col
 တိတိကျကျ O
 ထောက်မပြ O
 ```
-Neural Machine Translation အတွက် parallel ပုံစံလည်း ပြင်ခဲ့ပါတယ်။
+
+Neural Machine Translation အတွက် parallel ပုံစံလည်း ပြင်ခဲ့ပါတယ်။  
+
 ```
 $ wc ./data/data-sent/sent_parallel/*
     4712    63622   919423 test.my
@@ -138,9 +142,10 @@ $ wc ./data/data-sent+para/sent+para_parallel/*
     3079    61782   123564 valid.tg
   111186  1985314 16187344 total
 ```
+
 ```
 $ head -2 ./data/data-sent/sent_parallel/train.my
-ဘာ ရယ် လို့ တိတိကျကျ ထောက်မပြ နိုင် ပေမဲ့ ပြဿနာ တစ် ခု ခု ရှိ တယ် နဲ့ တူ တယ်
+ဘာ ရယ် လို့ တိတိကျကျ ထောက်မပြ နိုင် ပေမဲ့ ပြဿနာ တစ် ခု ခု ရှိ တယ် နဲ့ တူ တယ်  
 လူ့ အဖွဲ့အစည်း က ရှပ်ထွေး လာ တာ နဲ့ အမျှ အရင် က မ ရှိ ခဲ့ တဲ့ လူမှုရေး ပြဿနာ တွေ ဖြစ်ပေါ် လာ ခဲ့ တယ်
 
 $ head -2 ./data/data-sent/sent_parallel/train.tg
