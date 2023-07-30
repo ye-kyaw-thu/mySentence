@@ -166,3 +166,7 @@ B O O O O O O O O O O O O O O O O N N N E
 ### Workshop Presentation
 
 Thura Aung, Ye Kyaw Thu, Zar Zar Hlaing, "mySentence: Sentence Segmentation for Myanmar language using Neural Machine Translation Methods", the 4th joint Workshop on NLP/AI R&D, November 5, 2022 at Chiang Mai, Thailand. [[workshop_link]](https://isai-nlp-aiot2022.aiat.or.th/workshop-on-nlp-ai-rd/)  
+
+## To Do
+
+- အချိန်ရတဲ့အခါမှာ CITA-2023 conf. အတွက် ဆောက်ခဲ့တဲ့ NCRF++ model တွေကို တင်ပေးရန်
