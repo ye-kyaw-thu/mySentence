@@ -67,7 +67,8 @@ Tagged paragraph: တောင်းပန်/B ပါ/N တယ်/E ကျွ�
 
 ### Dataset Preparation
 
-ဝါကျ​တွေချည်း ပါတဲ့ sentence-only ​ဒေတာနဲ့ ဝါကျ​တွေ​ရော စာပိုဒ်​တွေပါ ပါတဲ့ sentence+paragraph ​ဒေတာ ၂ မျိုးစလုံး ကို ပြင်ဆင်ခဲ့ကြပါတယ်။ ပြီးမှ ကျွန်​တော်တို့က Train, Valid, Test ဆို ခွဲပြီး ​အောက်ပါ အတိုင်း ခွဲလိုက်ပါတယ်။
+ဝါကျ​တွေချည်း ပါတဲ့ sentence-only ​ဒေတာနဲ့ ဝါကျ​တွေ​ရော စာပိုဒ်​တွေပါ ပါတဲ့ sentence+paragraph ​ဒေတာ ၂ မျိုးစလုံး ကို ပြင်ဆင်ခဲ့ကြပါတယ်။ ပြီးမှ Train, Valid, Test အနေနဲ့​အောက်ပါ အတိုင်း ခွဲပြီး သုံးခဲ့ပါတယ်။  
+
 ```
 $ wc ./data/data-sent/sent_tagged/*
     4712    63622  1046667 test.tagged
@@ -81,7 +82,9 @@ $ wc ./data/data-sent+para/sent+para_tagged/*
     3079    61782  1001138 valid.tagged
    55593   992657 16187303 total
 ```
-Dataset format example
+
+Dataset format example  
+
 ```
 $ head -5 ./data/data-sent/sent_tagged/train.tagged 
 ဘာ/B ရယ်/O လို့/O တိတိကျကျ/O ထောက်မပြ/O နိုင်/O ပေမဲ့/O ပြဿနာ/O တစ်/O ခု/O ခု/O ရှိ/O တယ်/N နဲ့/N တူ/N တယ်/E
@@ -91,7 +94,7 @@ $ head -5 ./data/data-sent/sent_tagged/train.tagged
 ဘူမိ/B ရုပ်သွင်/O ပညာ/O သည်/O ကုန်းမြေသဏ္ဌာန်/O များ/O ကို/O လေ့လာ/O သော/N ပညာရပ်/N ဖြစ်/N သည်/E
 ```
 
-CRF အတွက် Column ​တွေ နဲ့ CRF Format လည်း ပြင်ပါတယ်။
+CRF မော်ဒယ်ဆောက်ရန်အတွက် Column ပုံစံ​နဲ့လည်း ပြင်ထားပါတယ်။
 
 ```
 $ wc ./data/data-sent/sent_data_crf_format/*
